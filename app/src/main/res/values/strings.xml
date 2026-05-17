@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RuStore</string>
+
+    <string name="onboarding_welcome">Добро пожаловать в RuStore</string>
+    <string name="onboarding_subtitle">Российский магазин приложений: каталог, обновления и установка без VPN</string>
+    <string name="onboarding_go_store">Перейти на витрину</string>
+    <string name="logo_content_description">Логотип RuStore</string>
+
+    <string name="store_title">Витрина</string>
+    <string name="store_subtitle">Подборка популярных приложений</string>
+    <string name="store_categories">Категории</string>
+    <string name="store_all_apps">Все категории</string>
+    <string name="store_filter_active">Категория: %1$s</string>
+    <string name="store_empty">В этой категории пока нет приложений</string>
+    <string name="store_empty_search">Ничего не нашлось по запросу «%1$s»</string>
+    <string name="store_apps_count">Приложений: %1$d</string>
+    <string name="store_search_hint">Поиск приложений</string>
+    <string name="store_search_clear">Очистить</string>
+
+    <string name="categories_sheet_title">Категории приложений</string>
+    <string name="category_count">%1$d прил.</string>
+
+    <string name="details_back">Назад</string>
+    <string name="details_install">Установить</string>
+    <string name="details_installing">Установка… %1$d%%</string>
+    <string name="details_open">Открыть</string>
+    <string name="details_uninstall">Удалить</string>
+    <string name="details_installed_badge">Установлено</string>
+    <string name="details_developer">%1$s</string>
+    <string name="details_section_about">О приложении</string>
+    <string name="details_section_screenshots">Скриншоты</string>
+    <string name="details_section_info">Информация</string>
+    <string name="details_info_version">Версия</string>
+    <string name="details_info_updated">Обновлено</string>
+    <string name="details_info_size">Размер</string>
+    <string name="details_info_category">Категория</string>
+    <string name="details_info_age">Возраст</string>
+    <string name="details_size_mb">%1$d МБ</string>
+    <string name="details_rating">%1$.1f</string>
+    <string name="details_downloads">%1$s загрузок</string>
+    <string name="details_not_found">Приложение не найдено</string>
+
+    <string name="app_icon_content_description">Иконка приложения %1$s</string>
+    <string name="screenshot_content_description">Скриншот %1$d</string>
+    <string name="screenshots_position">%1$d / %2$d</string>
+
+    <string name="installed_badge">Установлено</string>
+    <string name="installed_title">Открылось приложение «%1$s»</string>
+    <string name="installed_subtitle">Это учебная заглушка: в реальном магазине здесь бы запустилось установленное Android-приложение.</string>
+    <string name="installed_back_to_store">Вернуться в RuStore</string>
+
+    <string name="profile_title">Личный кабинет</string>
+    <string name="profile_open">Открыть личный кабинет</string>
+    <string name="profile_user_name">Гость</string>
+    <string name="profile_user_subtitle">Войдите, чтобы синхронизировать установки и подписки</string>
+    <string name="profile_app_version">Версия приложения</string>
+    <string name="profile_build_type">Тип сборки</string>
+    <string name="profile_build_debug">Учебная (debug)</string>
+    <string name="profile_storage">Источник данных</string>
+    <string name="profile_storage_local">Локальный каталог</string>
+    <string name="profile_section_debug">Для отладки</string>
+    <string name="profile_reset_onboarding">Сбросить онбординг</string>
+    <string name="profile_reset_hint">Покажет приветственный экран при следующем запуске или сразу после нажатия.</string>
+    <string name="profile_reset_done">Онбординг будет показан снова</string>
+</resources>
